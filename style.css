@@ -93,10 +93,10 @@ body {
     /* display: flex; */
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(to bottom , #4C0033, #790252, #AF0171, #E80F88);
+    background-color: var(--third-color);
 }
 .modal p {
-    color: #F7FCFD;
+    color: var(--secondary-color);
     font-size: 200px;
     font-weight: 700;
     text-transform: uppercase;
